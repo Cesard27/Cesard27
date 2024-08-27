@@ -1,4 +1,5 @@
 # 💫 About Me:
+(https://github.com/Cesard27/Cesard27/blob/main/photo.jpg)
 <br>Skilled software developer with front-end knowledge good use of coding best practices to ensure fast readable and editing scripts, use of multitudinous passive knowlegde such as theory color, graphic desing and UX to guarantee goodlooking web pages; resolved technical issues and creative challenges by finding innovative solutions to improve the final product. Methodical and practical.<br>Looking for new freelancer opportunities to apply my expertise and passion for programming.<br><br>- 🔭 I’m currently working on enhance my backend skills<br>- 🌱 I’m currently learning TS-React-Redux, Springboot<br>- ❕ I'm interesting in Web design <br>- 🇬🇧 English, 🇪🇸 Spanish
 
 
